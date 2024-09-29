@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Computer Vision Tasks<br>👯 I’m looking to collaborate on any Project with AI integration and improving the model<br>🤝 I’m looking for help with some Computer Vision Tasks<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about DEEP Learning Concets<br>⚡ Fun fact is loading yet <br> 🌌 "In the infinite loop of algorithms, we find reflections of human cognition.
+🔭 I’m currently working on Computer Vision Tasks<br>👯 I’m looking to collaborate on any Project with AI integration and improving the model<br>🤝 I’m looking for help with some Computer Vision Tasks<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about DEEP Learning Concets<br>⚡ Fun fact is loading yet <br> 🌌 In the infinite loop of algorithms, we find reflections of human cognition.
 
 
 ## 🌐 Socials:
