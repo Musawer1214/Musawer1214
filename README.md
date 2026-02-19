@@ -12,7 +12,7 @@ AI Engineer working across **Computer Vision**, **NLP**, and **Deep Learning**.
 
 
 ## 🌐 Socials
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E3440?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hussain-1221.web.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Musawer1214) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musawerhussain14/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@musawerhussain1214) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musawerhussain1214@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/musawer.hussain.72) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E3440?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hussain-1221.web.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musawerhussain14/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@musawerhussain1214)
 
 ## 💻 Tech Stack
 ### 🧠 Core Skills
