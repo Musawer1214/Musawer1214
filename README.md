@@ -12,7 +12,7 @@ AI Engineer working across **Computer Vision**, **NLP**, and **Deep Learning**.
 
 
 ## 🌐 Socials
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E3440?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hussain-1221.web.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musawerhussain14/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@musawerhussain1214)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E3440?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hussain-1221.web.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musawerhussain14/) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Musawer14) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@musawerhussain1214)
 
 ## 💻 Tech Stack
 ### 🧠 Core Skills
